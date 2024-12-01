@@ -3,6 +3,11 @@
 
 ---
 
+## 📈 GitHub Repository Stats
+| 🌟 **Stars** | 🍴 **Forks** | 🐛 **Issues** | 🔔 **Open PRs** | 🔕 **Closed PRs** | 🛠️ **Languages** | ✅ **Contributors** |
+|--------------|--------------|---------------|-----------------|------------------|------------------|------------------|
+| ![GitHub stars](https://img.shields.io/github/stars/ANSHIKA-26/WordWise) | ![forks](https://img.shields.io/github/forks/ANSHIKA-26/WordWise) | ![issues](https://img.shields.io/github/issues/ANSHIKA-26/WordWise?color=32CD32) | ![pull requests](https://img.shields.io/github/issues-pr/ANSHIKA-26/WordWise?color=FFFF8F) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/ANSHIKA-26/WordWise?color=20B2AA) | ![Languages](https://img.shields.io/github/languages/count/ANSHIKA-26/WordWise?color=20B2AA) | ![Contributors](https://img.shields.io/github/contributors/ANSHIKA-26/WordWise?color=00FA9A) |
+
 ## Featured In
 
 <table>
@@ -12,7 +17,7 @@
       <th>Event Description</th>
    </tr>
    <tr>
-      <td><img src="./images/Untitled design.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
+      <td><img src="./images/Untitled design.webp" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
       <td>GirlScript Summer of Code 2024</td>
       <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
@@ -21,16 +26,16 @@
 ---
 ## 🌟 Table of Contents
 - [Key Features](#-key-features-)
-- [Technologies Used](#-technologies-used-)
-- [How to Contribute](#-how-to-contribute-to-this-project-)
+- [Technologies Used](#techUsed)
+- [How to Contribute](#HTContribute)
 - [Contribution](#contribution)
-- [Code of conduct](#code-of-conduct)
-- [Contribution Guidelines](#guidelines-for-contribution)
+- [Code of conduct](#CodeOfConduct)
+- [Contribution Guidelines](#contributionGuideLines)
 - [PR Guidelines](#pull-request-guidelines)
-- [Contribution Points](#contribution-points)
+- [Contribution Points](#contributionPoints)
 - [GSSoC Guidelines](#gssoc-guidelines)
-- [Ending Note](#-ending-note-)
-- [Join Us!](#-join-us-)
+- [Ending Note](#endingNote)
+- [Join Us!](#joinUs)
 - [Contributors](#our-valuable-contributors-️)
 ---
 
@@ -47,6 +52,7 @@
 
 ---
 
+<a name="techUsed"></a>
 ## ⚙️ Technologies Used ⚙️
 1. **🟦 HTML (HyperText Markup Language)**
    - Provides structure to the website, organizing content into various elements such as headings, paragraphs, buttons, and images.
@@ -59,6 +65,7 @@
 
 ---
 
+<a name="HTContribute"></a>
 ## 🚀 How to Contribute to This Project
 
 We’re excited to have you contribute to the **WordWise Blogging Website** project! Follow these simple steps to get started:
@@ -114,6 +121,7 @@ We’re excited to have you contribute to the **WordWise Blogging Website** proj
 - Click on any article to read in detail.
 
 ---
+<a name="contribution"></a>
 ## <img src="https://github.com/Meetjain1/wanderlust/assets/133582566/90f3930e-5a12-4a4e-8ac9-0dc7d5396adb" width="35" height="35"> Contribution
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -129,6 +137,7 @@ Kindly go through [CONTRIBUTING.md](CONTRIBUTING.md) to understand everything fr
 If you would like to contribute to the project, please follow our contribution guidelines.
 
 ---
+<a name="CodeOfConduct"></a>
 ## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
 
 We are committed to fostering a welcoming and inclusive environment for everyone. All contributors and participants are expected to uphold the following values:
@@ -141,6 +150,7 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to foster an in
 If anyone violates these standards, they may be banned from the community.
 
 ---
+<a name="contributionGuideLines"></a>
 ## Guidelines For Contribution
 
 Please follow these guidelines to help maintain the quality and organization of the project. This ensures that contributions and issues are effectively tracked, addressed, and resolved.
@@ -196,7 +206,7 @@ Before submitting a PR, ensure that:
   - Any specific areas where the reviewer should focus.
 
 ---
-
+<a name="contributionPoints"></a>
 ## 🏆 Contribution Points
 All tasks will be assigned various levels based on complexity and required skills. Each level provides different points:
 - **🥇 Level 1**: 10 Points  
@@ -210,14 +220,14 @@ It is important to adhere to the guidelines; violations can affect your profile.
 
 ---
 
-
+<a name="endingNote"></a>
 ## 📄 Ending Note
 Thank you for checking out the WordWise Blogging Website! We hope you find this project enjoyable and informative. Your feedback, contributions, and suggestions are always welcome!
 
 If you have any questions or need assistance, please feel free to reach out through the Issues section of this repository.
 
 ---
-
+<a name="joinUs"></a>
 ## 🙌🏻 Join Us!
 We encourage you to explore the website, share your thoughts, and get involved in improving the project. Let’s make this blogging experience even better together!
 
